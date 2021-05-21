@@ -1,0 +1,1 @@
+gcc main.c bw_tree.c list.c -o s -std=c99
